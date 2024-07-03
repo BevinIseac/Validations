@@ -108,27 +108,14 @@ public class Example {
 		this.blocklisted = blocklisted;
 	}
 	public Date getFutureDate() {
-
 		return futureDate;
-
 	}
-
-
-
 	public void setFutureDate(Date futureDate) {
-
 		this.futureDate = futureDate;
-
 	}
-
-
-
 	public Date getFutureOrPresent() {
-
 		return futureOrPresent;
 	}
-
-
 	public void setFutureOrPresent(Date futureOrPresent) {
 		this.futureOrPresent = futureOrPresent;
 	}
@@ -148,33 +135,12 @@ public class Example {
 		return urlExample;
 	}
     public void setUrlExample(String urlExample) {
-
 		this.urlExample = urlExample;
-
 	}
-
-
-
 	public String getCreditCardExample() {
-
 		return creditCardExample;
-
 	}
-
-
-
 	public void setCreditCardExample(String creditCardExample) {
-
 		this.creditCardExample = creditCardExample;
-
 	}
-
-	
-
-	
-
-	
-
-	
-
 }
